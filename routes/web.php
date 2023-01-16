@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Auth;
 //Assing Controllers
 use App\Http\Controllers\HomeControlLer;
 use App\Http\Controllers\RolControlLer;
